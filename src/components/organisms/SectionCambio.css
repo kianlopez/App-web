@@ -1,0 +1,13 @@
+#cambio_section {
+    width: 50%;
+    height: auto;
+    border: 1px #39f00c solid;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+    background-color: red; 
+}
